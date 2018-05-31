@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:paddingBottom="25dp">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="3dp"
+        android:layout_height="300dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerInParent="true"
+        app:cardBackgroundColor="@color/colorPrimaryDark" />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="3dp"
+        android:layout_height="300dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        app:cardBackgroundColor="@color/colorPrimaryDark" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#141414"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                style="@style/LayoutDesign"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#00dfff"
+                android:paddingLeft="6dp"
+                android:weightSum="7">
+
+                <ToggleButton
+                    android:id="@+id/sun"
+                    style="@style/Day"
+                    android:textOff="@string/sun"
+                    android:textOn="@string/sun" />
+
+                <ToggleButton
+                    android:id="@+id/mon"
+                    style="@style/Day"
+                    android:textOff="@string/mon"
+                    android:textOn="@string/mon" />
+
+                <ToggleButton
+                    android:id="@+id/tue"
+                    style="@style/Day"
+                    android:textOff="@string/tue"
+                    android:textOn="@string/tue" />
+
+                <ToggleButton
+                    android:id="@+id/wed"
+                    style="@style/Day"
+                    android:textOff="@string/wed"
+                    android:textOn="@string/wed" />
+
+                <ToggleButton
+                    android:id="@+id/thu"
+                    style="@style/Day"
+                    android:textOff="@string/thu"
+                    android:textOn="@string/thu" />
+
+                <ToggleButton
+                    android:id="@+id/fri"
+                    style="@style/Day"
+                    android:textOff="@string/fri"
+                    android:textOn="@string/fri" />
+
+                <ToggleButton
+                    android:id="@+id/sat"
+                    style="@style/Day"
+                    android:textOff="@string/sat"
+                    android:textOn="@string/sat" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/LayoutDesign"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f2a8e0">
+
+                <ImageView
+                    style="@style/Image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:rotation="180"
+                    android:src="@drawable/vibration" />
+
+                <TextView
+                    android:id="@+id/fromC"
+                    style="@style/Text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text="@string/college_start_time" />
+
+                <TextView
+                    android:id="@+id/oneTimeFrom"
+                    style="@style/Text"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:onClick="timePicker"
+                    android:text="@string/click_me" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/LayoutDesign"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#b080f2">
+
+                <ImageView
+                    style="@style/Image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ringing" />
+
+                <TextView
+                    android:id="@+id/toC"
+                    style="@style/Text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text="@string/college_end_time" />
+
+                <TextView
+                    android:id="@+id/oneTimeTo"
+                    style="@style/Text"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:onClick="timePicker"
+                    android:text="@string/click_me" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/LayoutDesign"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#a755fd">
+
+                <ImageView
+                    style="@style/Image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ringing" />
+
+                <TextView
+                    style="@style/Text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text="@string/recess_start_time" />
+
+                <TextView
+                    android:id="@+id/recessStart"
+                    style="@style/Text"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:onClick="timePicker"
+                    android:text="@string/click_me" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/LayoutDesign"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#c900ff">
+
+                <ImageView
+                    style="@style/Image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:rotation="180"
+                    android:src="@drawable/vibration" />
+
+                <TextView
+                    style="@style/Text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text="@string/recess_end_time" />
+
+                <TextView
+                    android:id="@+id/recessEnd"
+                    style="@style/Text"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:onClick="timePicker"
+                    android:text="@string/click_me" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/LayoutDesign"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#7239c0">
+
+                <ImageView
+                    style="@style/Image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/radio" />
+
+                <TextView
+                    style="@style/Text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text="@string/mode" />
+
+                <RadioGroup
+                    android:id="@+id/radioGroup"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:checkedButton="@+id/vibrateRadioButton"
+                    android:gravity="right"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/vibrateRadioButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Vibrate"
+                        android:textStyle="bold" />
+
+                    <RadioButton
+                        android:id="@+id/silentRadioButton2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Silent"
+                        android:textStyle="bold" />
+                </RadioGroup>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#511aad"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/set"
+                    style="@style/Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="set"
+                    android:text="@string/set"
+                    android:textColor="@android:color/holo_blue_dark" />
+
+                <Button
+                    android:id="@+id/cancelOneTime"
+                    style="@style/Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="cancelOneTime"
+                    android:text="@string/cancel"
+                    android:textColor="@android:color/holo_red_dark"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+</RelativeLayout>

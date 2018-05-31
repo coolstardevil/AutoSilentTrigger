@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Auto Silent Trigger</string>
+    <string name="college_start_time">College Start Time</string>
+    <string name="college_end_time">College End Time</string>
+    <string name="recess_start_time">Recess Start Time</string>
+    <string name="recess_end_time">Recess End Time</string>
+    <string name="mode">Mode</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="DNDaccess">Please Allow Access to Do Not Disturb\nAuto Silent Trigger</string>
+    <string name="click_me">Click me</string>
+    <string name="college">College Start Time</string>
+    <string name="office">Office Start Time</string>
+    <string name="officeEnd">Office End Time</string>
+    <string name="collegeEnd">College End Time</string>
+    <string name="title_send_feedback">Send feedback</string>
+    <string name="mail_feedback_email">coolstardevil@gmail.com</string>
+    <string name="mail_feedback_subject">Feedback For Auto Silent Trigger App</string>
+    <string name="mail_feedback_message">Hi,\n\n</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9851814272737769/6653554132</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9851814272737769/8168626413</string>
+    <string name="help">Help</string>
+    <string name="setting">Setting</string>
+    <string name="feedback">FeedBack</string>
+    <string name="helpTitle">HELP</string>
+    <string name="copyright">©2018\nCoolstardeviL</string>
+    <string name="sun">S</string>
+    <string name="mon">M</string>
+    <string name="tue">T</string>
+    <string name="wed">W</string>
+    <string name="thu">T</string>
+    <string name="fri">F</string>
+    <string name="sat">S</string>
+</resources>
