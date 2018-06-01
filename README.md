@@ -1,7 +1,7 @@
 # AutoSilentTrigger
 <img src="https://lh3.googleusercontent.com/Vh38AqlX_CGGvBN194XPC4XacFBEwggpofltaR1kI_ujHBJoP_HfQJSBP2mg96zFPw=s180-rw" align="left" width="200" hspace="10" vspace="10">
 Auto Silent Trigger include handsome of utility which makes the user to overcome from embarrassment is such important places like Meeting , College lectures & Office.
-This App helps you to have a mode which makes the phone full silent in the time you are busy and comes to the normal mode once you are free.
+This open source app helps you to understand about the alarm manager , alarm scheduler and some logic that can you use in your project. 
 <div style="display:flex;" >
 <a href="https://play.google.com/store/apps/details?id=com.coolstardevil.autosilenttrigger">
     <img alt="Get it on Google Play"
