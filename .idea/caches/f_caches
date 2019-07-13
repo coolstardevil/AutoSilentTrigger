@@ -1,0 +1,84 @@
+{
+    "records": [
+        {
+            "title": "Murder Mystery",
+            "genre": "Action, Comedy, Mystery, Netflix",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "http://dl12.f2m.co/film/Murder.Mystery.2019.720p.WEB-DL.Film2Movie_WS.mkv",
+            "videoThree": "n",
+            "info": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjBiNzIzZmYtNjdjMi00ODdiLWJlYmUtY2UzMWU0MGRlNjBjXkEyXkFqcGdeQXVyMTk1MDY4NzY@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg"
+        },
+        {
+            "title": "Men in Black: International",
+            "genre": "Fantasy",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=c57df4839a0b000c6e92ae5a50b550dcb7cca14c29f7bf5706c634e475286e6646e48589dfb22267&id=171476756&dk=MWIzaW5raHdxemphZy0xNzE0NzY3NTYubXA0&node=DS04&filename=mib.mp4.mp4",
+            "videoThree": "n",
+            "info": "Chris Hemsworth and Tessa Thompson star as Agent H and Agent M, who employ high-tech weaponry to battle mischievous aliens on Earth. However, the pair also discover a major threat within their own ranks.",
+            "cover": "https://drive.google.com/uc?export=view&id=1VPf7SRfEuVSoallHQvZiCj6x63Ti9XOF"
+        },
+        {
+            "title": "Annabelle Comes Home",
+            "genre": "Horror, Mystery, Thriller",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=5925ff017bb16730b79de15d4cb44f22f7013fa9f856683d7ca1ff80f2244b1473988221ff2c0f7e&id=171720900&dk=MHZmZnpyaXFtbTNmdC0xNzE3MjA5MDAubXA0&node=DS06&filename=anna.mp4",
+            "videoThree": "n",
+            "info": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMmM0MDdiN2EtMjhjMi00YjA5LWI4YmYtYmJhNTAxMDI4ODQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_.jpg"
+        },
+        {
+            "title": "Spider Man Far from Home Dual",
+            "genre": "Action, Adventure, Sci-Fi",
+            "year": "2019",
+            "videoOne": "1",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=6ae2855d4a846a0e7f466d661ff13b5e2268e17e45b46b527948d07792a42490accd4655d534e1f3&id=171961375&dk=MTVpYTVzc2sxd3h0Zy0xNzE5NjEzNzUubWt2&node=DS06&filename=sp.mkv",
+            "videoThree": "n",
+            "info": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "cover": "http://t0.gstatic.com/images?q=tbn:ANd9GcRPzzfxN6Ugvq902Ut7A-QkCDOqLzzbiYQ2bPk2pn5D9fBZBrT_"
+        },
+        {
+            "title": "Kabir Singh",
+            "genre": "Action, Drama, Romance",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "http://ssd3.polosolo.net/HDFriday/Bollywood-Movies/720p/Kabir%20Singh%202019%20PreDVD%20Rip%20HDFriday.mp4",
+            "videoThree": "n",
+            "info": "Kabir Singh is a remake of a Telugu movie Arjun Reddy (2017), where a short-tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry another person.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOGVmN2Q2MjctYTIxMi00Yjg5LTk2ZWMtYmFiYWY4NjUxMjFkXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_QL50_SY1000_CR0,0,660,1000_AL_.jpg"
+        },
+        {
+            "title": "Super 30",
+            "genre": "Drama",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://s387man.storage.yandex.net/rdisk/4637cfce966079742fd2a1fddaf10b02be49ac115782335f38ad260f65a82bff/5d29b1fe/Pv5-FV3Bg0kTf14p_vExTIUDrpPImjzmf4dIhAM2d34T2x7Z3sKRegafBnyE1cjV7VaiodhFmMwXHh6S1VL2Qg==?uid=867111695&filename=sup.mkv&disposition=attachment&hash=&limit=0&content_type=video%2Fx-matroska&owner_uid=867111695&fsize=429418145&hid=835901376d402a2a6e99b828e6b8eb0c&media_type=video&tknv=v2&etag=bf344bbf4a3086ad7ce99687a22b6f8a&rtoken=7yJ6JxD6itxK&force_default=yes&ycrid=na-97f23f3425ef8fc0f96c08c882ca812f-downloader15e&ts=58d8d7831fb80&s=33ee9d11af1df51ab268131b1a2d8c0ebdc3edfd8f0d23486c703589a57789cd&pb=U2FsdGVkX19EBCz9OJUvqtGbatNbjUZsWKR39kcklLR63vt7_WTOzlx_yG5-bfziUs4BweyOB1G8fUt3z4csQV45Kx9IZ0-_xccMsYw9cJI",
+            "videoThree": "n",
+            "info": "Based on life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
+            "cover": "https://drive.google.com/uc?export=view&id=1Qm0y3FBoaFsJGzAQdyj58MrYCGIDNdUV"
+        },
+        {
+            "title": "Article 15",
+            "genre": "Crime, Drama, Thriller",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/video?action=get&userid=60bb46a13b091c1e0be5aa692256aca6f92979abb37cd159311bf7c02ebd252aaaa5bfcc6bc7dbf7&id=171750259&dk=MHB4Z3E2aGxnNjFsaS0xNzE3NTAyNTkubXA0&node=DS04&filename=Article 15.mp4",
+            "videoThree": "n",
+            "info": "Set against the backdrop of Badaun gangrape and murder case (2014), Anubhav Sinha's Article 15 is a thrilling investigative drama based on true events.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYjYzODVjMzYtY2M1My00ZWZiLThiNTMtNjNlOWYzOGY4MDExXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL50_SY1000_CR0,0,693,1000_AL_.jpg"
+        },
+        {
+            "title": "Khamoshi",
+            "genre": "Horror, Thriller",
+            "year": "2019",
+            "videoOne": "2",
+            "videoTwo": "https://plus2.uhub.com/sapi/download/file?action=get&userid=4888cc5fe2d8fac59a9de36f41787ae4581bba007498cb002d2f93b9b278d45cbd878b655bb468fb&id=171502837&dk=MG5qc2Yza2hrbGh5bi0xNzE1MDI4MzcudHM&node=DS04&filename=Khamoshi (2019).ts",
+            "videoThree": "n",
+            "info": "A remake of an English movie Hush (2016), where a deaf and mute girl must fight for her life when a killer appears at her door.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDlmZWY5N2QtYTcwMS00MTM2LTk2ODctNTM4YjU3YWIyMDM3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+    ]
+}
