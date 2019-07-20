@@ -55,8 +55,8 @@
             "genre": "Drama",
             "year": "2019",
             "videoOne": "2",
-            "videoTwo": "https://s108vla.storage.yandex.net/rdisk/1a387fbee4268b5dd7c61187b655622fdda6a157ff81ea5ab58eec1c2f6b358c/5d330459/Pv5-FV3Bg0kTf14p_vExTIUDrpPImjzmf4dIhAM2d34T2x7Z3sKRegafBnyE1cjV7VaiodhFmMwXHh6S1VL2Qg==?uid=867111695&filename=sup.mkv&disposition=attachment&hash=&limit=0&content_type=video%2Fx-matroska&owner_uid=867111695&fsize=429418145&hid=835901376d402a2a6e99b828e6b8eb0c&media_type=video&tknv=v2&etag=bf344bbf4a3086ad7ce99687a22b6f8a&rtoken=z4hDKyDEVSDh&force_default=yes&ycrid=na-7ef872985f223a692db7ee93ec0d1d7b-downloader6h&ts=58e1bb5170840&s=545eb9d49453a267d61676df8c9a563c71ddf5d80c5c0a4eb334e2e1c798e752&pb=U2FsdGVkX1_VCQhJevQ-AXlS48SB6i6TdeA_Nt7JnntfQ0Vpku43GUayfXPfJLx1mEco2CxSXqTu341CjVAjzdamf3z06ar5GBoksGIFQBg",
-            "videoThree": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18GZaGAvuFUaSk7YqN6qPwo8LzeY0pPQKznJyTDRawNo_AdVRp1zd2TpGsmOwZ1j4-u02EAF6tuXKZCcLTDJrZ8q6sn3IFbEJNg583e70OIihhh5T32reP__-OUcv9W8STkU37YAqgk48gvAk7JmM82a_fIeAlaulBSLgErOkGBZKUX-s1znurNOSMs30GHnU2GycQ98XVETstFx-ENyPzMfg0ASWl4mhwKMXUWNu2XEV-JwtNVGZvkEBNTV8K8cJ-NKTPtVbOSDO5NDwZAiyMrfUwWVjvY3Do/58e2c7d2d4bb8/0c98194deb57a0f29deb249569a3f4e19e7ef58eca6f14cd65e2a831efdaffc9/240p/playlist.m3u8",
+            "videoTwo": "https://archive.org/download/slo_20190720/Su.ts",
+            "videoThree": "https://fsg.thevideobee.to/hls/exfpam3b62f2aoyvd44klihu2f2deqx4acmt4fg2hifjeiw5hvcrebfm4qpa/index-v1-a1.m3u8",
             "info": "Based on life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
             "cover": "https://m.media-amazon.com/images/M/MV5BMTkzNmViZjktMDQ2NS00YTllLWE3NTYtMTJmOTZlNTg2YzBlXkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_QL50_SY1000_SX750_AL_.jpg"
         },
@@ -76,7 +76,7 @@
             "year": "2019",
             "videoOne": "2",
             "videoTwo": "https://plus2.uhub.com/sapi/download/file?action=get&userid=f7e248e4283e87bc7faf074a70d1c291f30569e7f4ebb67b699277fb9f400479897876e429791049&id=172279603&dk=MG1lN2FhYm9kYzhrZy0xNzIyNzk2MDMudHM&node=DS06&filename=jhoo.ts",
-            "videoThree": "https://fsc.thevideobee.to/hls/exfpa4de62f2aoyvd47klphvq7wrrtskovsn57ooamhiospkuygpn5ahehtq/index-v1-a1.m3u8",
+            "videoThree": "https://fsc.thevideobee.to/hls/exfpa4de62f2aoyvd47klphvq7wrrtskovsn57ooamhiospkuygmmkiaehtq/index-v1-a1.m3u8",
             "info": "Two boys go to Mauritius to study and love it so much there, that they are reluctant to return home. Rishi plays Omkar's dad who turns up from the village to surprise him and is in turn surprised by his son's lifestyle.",
             "cover": "https://m.media-amazon.com/images/M/MV5BZjViMmEyNTAtMWJmMi00MjM2LWEzNWQtMWU1ODhkNmEzNjllXkEyXkFqcGdeQXVyNDgyODYzNjg@._V1_QL50_SY1000_CR0,0,727,1000_AL_.jpg"
         }
